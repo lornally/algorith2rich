@@ -1,3 +1,18 @@
+
+### 操作步骤
+1. 拥有一个github.com的账号
+2. 本机打开terminal, 进行如下操作
+```sh
+# 建立公秘钥
+ssh-keygen -t rsa -C "这里换成你的邮箱@example.com"
+# 这个命令可以直接copy公钥
+pbcopy < ~/.ssh/id_rsa.pub
+```
+3. 更新这个秘钥到github
+4. 本机terminal, 进行如下操作
+```sh
+git clone git@github.com:lornally/algorith2rich.git
+```
 ### 无法搜索
 搜索 git@github.com:lornally/algorith2rich.git, 现实没有结果
 - 搜索这个: lornally/algorith2rich
