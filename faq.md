@@ -1,5 +1,5 @@
 
-### 操作步骤
+## 基操
 1. 拥有一个github.com的账号
 2. 本机打开terminal, 进行如下操作
 ```sh
@@ -13,6 +13,12 @@ pbcopy < ~/.ssh/id_rsa.pub
 ```sh
 git clone git@github.com:lornally/algorith2rich.git
 ```
+
+## 疑问--------
+
+### 可否线上会议
+- 可以, 腾讯会议咱们试试
+
 ### 无法搜索
 搜索 git@github.com:lornally/algorith2rich.git, 现实没有结果
 - 搜索这个: lornally/algorith2rich
