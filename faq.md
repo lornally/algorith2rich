@@ -35,3 +35,14 @@ https, ssh和github cli的区别
 
 ### add和commit的区别
 - 别急, 有个ppt解决这些问题
+
+
+### 不用mac可以吗?
+> 结论: 或许是可以的, 但是并不经济, 因此并不推荐这个方案
+0. 如果使用linux也是可以的, 非常不建议使用win, 很浪费时间
+1. 直接装anaconda, ltm版本
+2. 如果使用win, 有两个特别注意
+  - win的命令行尽量避免使用， 直接使用web， 比如GitHub.com
+  - win上有最好的(没有之一)编辑器nodepad++, 这个是远超vscode/sublime/textmate, 易用性好于vi/emacs
+3. 不过吧， 如果把时间折算成本， 还是买个二手或者官翻mac(苹果官网就有)吧, 价格四千以内, 这玩意的收益可比手机大太多了
+
