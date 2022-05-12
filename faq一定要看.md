@@ -47,3 +47,6 @@ https, ssh和github cli的区别
   - win上有最好的(没有之一)编辑器nodepad++, 这个是远超vscode/sublime/textmate, 易用性好于vi/emacs
 3. 不过吧， 如果把时间折算成本， 还是买个二手或者官翻mac(苹果官网就有)吧, 价格四千以内, 这玩意的收益可比手机大太多了
 
+### windows无法克隆含有中文路径的项目怎么处理？
+1. 直接在github.com网页上操作
+2. Windows安装Ubuntu子系统操作
