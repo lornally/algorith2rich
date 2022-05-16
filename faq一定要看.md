@@ -43,10 +43,14 @@ https, ssh和github cli的区别
 0. 如果使用linux也是可以的, 非常不建议使用win, 很浪费时间
 1. 直接装anaconda, ltm版本
 2. 如果使用win, 有两个特别注意
-  - win的命令行尽量避免使用， 直接使用web， 比如GitHub.com
+  - win的命令行尽量避免使用， 直接使用web， 比如GitHub.com, 如果强行用win命令行会碰到各种问题, 例如中文问题, 命令不兼容, 库不支持...
   - win上有最好的(没有之一)编辑器nodepad++, 这个是远超vscode/sublime/textmate, 易用性好于vi/emacs
 3. 不过吧， 如果把时间折算成本， 还是买个二手或者官翻mac(苹果官网就有)吧, 价格四千以内, 这玩意的收益可比手机大太多了
 
 ### windows无法克隆含有中文路径的项目怎么处理？
 1. 直接在github.com网页上操作
 2. Windows安装Ubuntu子系统操作
+
+### notebook
+补充说明 notebook可以分段运行，但一个文件内，上下是有关联关系的，前一个框框定义的a在后一个框框中，可以直接使用，代表含义相同
+
