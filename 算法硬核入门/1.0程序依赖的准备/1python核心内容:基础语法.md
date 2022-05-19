@@ -63,11 +63,6 @@ import matplotlib.pyplot
 # 绘图
 matplotlib.pyplot.imshow(a)
 
-
-
-
-
-
 ```
 
 
@@ -77,5 +72,14 @@ matplotlib.pyplot.imshow(a)
 # 绘图, 这里要指出的第二个参数是不要平滑图像颜色, 也就是不同颜色硬画, 
 matplotlib.pyplot.imshow(a, interpolation='nearest')
 
-
 ```
+
+### 更进一步
+- 推荐廖雪峰的教程: https://www.liaoxuefeng.com/wiki/1016959663602400/1016966022717728
+- 推荐阅读内容:
+ - python基础
+ - 函数
+ - 高级特性
+ - 函数式编程
+- 从模块开始就不建议阅读了
+- 尤其不建议阅读面向对象的相关内容, 思路和做法都非常曲折复杂, 是上个世纪80年代的风格, 在飞速发展的计算机领域, 属于代码的古代写法
