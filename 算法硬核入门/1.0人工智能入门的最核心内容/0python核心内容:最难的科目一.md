@@ -21,6 +21,7 @@ sh -c "$(curl -fsSL https://gitee.com/pocmon/ohmyzsh/raw/master/tools/install.sh
 ```sh
 # 安装包管理器brew
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+# 此时, 会有源选择, 此处注意, 不要使用科大的源
 ```
 4. 可选项目: 安装编辑器 
   - 如果你习惯其他编辑器, 例如: textmate, sublime, vi, emacs... 
@@ -69,9 +70,9 @@ brew install google-chrome
 ```sh
 code ~/.zshrc
 # 这里code是启动virtual-studio-code, 如果使用其他编辑器请使用对应的编辑命令
-```
-- 在编辑界面, 文档的尾部录入以下内容
-```sh
+
+# * 在编辑界面, 文档的尾部录入以下内容
+
 # notebook
 alias pn="ipython notebook"
 # 这里/Users/machangkun/Documents/__ipython_notebook是我的工作目录, 请换成你的对应目录
