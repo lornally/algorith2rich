@@ -26,3 +26,6 @@
 /20220712/git业余.key filter=lfs diff=lfs merge=lfs -text
 /20220712/git参与开源triangular.key filter=lfs diff=lfs merge=lfs -text
 /20220712/git查看.key filter=lfs diff=lfs merge=lfs -text
+/git/git业余.key filter=lfs diff=lfs merge=lfs -text
+/git/git参与开源triangular.key filter=lfs diff=lfs merge=lfs -text
+/git/git查看.key filter=lfs diff=lfs merge=lfs -text
