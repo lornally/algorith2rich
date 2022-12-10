@@ -50,3 +50,4 @@
 /history/20220712/git查看.key filter=lfs diff=lfs merge=lfs -text
 /history/20220712/控制论整理.mindnode filter=lfs diff=lfs merge=lfs -text
 /history/20221121控制论/初识控制论.key filter=lfs diff=lfs merge=lfs -text
+/history/LK1971.pdf filter=lfs diff=lfs merge=lfs -text
