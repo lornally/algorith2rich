@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Lin%E2%80%93Kernighan_heuristic
+- https://en.wikipedia.org/wiki/2-opt
+- https://en.wikipedia.org/wiki/3-opt
