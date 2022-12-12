@@ -1,0 +1,420 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Mon Oct 12 12:46:26 2009 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="3.4in" height="4.4in" viewBox="1877 1826 4061 5228">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Circle -->
+<circle cx="3779" cy="2456" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile1" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="3779" cy="2456" r="94"
+ style="fill:url(#tile1);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="5102" cy="3968" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile2" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="5102" cy="3968" r="94"
+ style="fill:url(#tile2);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="3685" cy="3590" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile3" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="3685" cy="3590" r="94"
+ style="fill:url(#tile3);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="2551" cy="3779" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile4" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="2551" cy="3779" r="94"
+ style="fill:url(#tile4);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="2740" cy="2173" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile5" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="2740" cy="2173" r="94"
+ style="fill:url(#tile5);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="5574" cy="2173" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile6" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="5574" cy="2173" r="94"
+ style="fill:url(#tile6);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="4913" cy="2740" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile7" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="4913" cy="2740" r="94"
+ style="fill:url(#tile7);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="3779" cy="5291" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile8" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="3779" cy="5291" r="94"
+ style="fill:url(#tile8);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="5102" cy="6803" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile9" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="5102" cy="6803" r="94"
+ style="fill:url(#tile9);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="3685" cy="6425" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile10" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="3685" cy="6425" r="94"
+ style="fill:url(#tile10);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="2551" cy="6614" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile11" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="2551" cy="6614" r="94"
+ style="fill:url(#tile11);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="2740" cy="5007" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile12" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="2740" cy="5007" r="94"
+ style="fill:url(#tile12);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="5574" cy="5007" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile13" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="5574" cy="5007" r="94"
+ style="fill:url(#tile13);
+stroke:#000000;stroke-width:8;"/>
+<!-- Circle -->
+<circle cx="4913" cy="5574" r="94"
+ style="fill:#000000;stroke:#000000;stroke-width:8;"/>
+<g style="stroke:#000000; stroke-width:8" >
+<defs>
+<pattern id="tile14" x="0" y="0" width="200" height="200"
+         patternUnits="userSpaceOnUse">
+<path d="M 0 -100 200 20" />
+<path d="M 0  -60 200 60" />
+<path d="M 0  -20 200 100" />
+<path d="M 0   20 200 140" />
+<path d="M 0   60 200 180" />
+<path d="M 0  100 200 220" />
+<path d="M 0  140 200 260" />
+<path d="M 0  180 200 300" />
+</pattern>
+</defs>
+</g>
+<circle cx="4913" cy="5574" r="94"
+ style="fill:url(#tile14);
+stroke:#000000;stroke-width:8;"/>
+<!-- Line -->
+<polyline points="2740,2173
+3779,2456
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3779,2456
+5102,3968
+5574,2173
+4913,2740
+3685,3590
+2551,3779
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2740,5007
+3779,5291
+4913,5574
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4913,5574
+5574,5007
+5102,6803
+3685,6425
+2551,6614
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2520,2173
+2078,2173
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:41 41;"/>
+<!-- Arrowhead on XXXpoint 2078 2173 - 2661 2173-->
+<polygon points="2518 2204
+2644 2173
+2518 2141
+2518 2204
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="2520,5007
+2078,5007
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:41 41;"/>
+<!-- Arrowhead on XXXpoint 2078 5007 - 2661 5007-->
+<polygon points="2518 5039
+2644 5007
+2518 4976
+2518 5039
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="2456,6614
+2014,6614
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:41 41;"/>
+<!-- Arrowhead on XXXpoint 2456 6614 - 1874 6614-->
+<polygon points="2016 6582
+1890 6614
+2016 6645
+2016 6582
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="2456,3779
+2014,3779
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:41 41;"/>
+<!-- Arrowhead on XXXpoint 2456 3779 - 1874 3779-->
+<polygon points="2016 3748
+1890 3779
+2016 3811
+2016 3748
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Text -->
+<text xml:space="preserve" x="2881" y="1937" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">a</text>
+<!-- Text -->
+<text xml:space="preserve" x="3968" y="2362" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">b</text>
+<!-- Text -->
+<text xml:space="preserve" x="4724" y="2551" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">c</text>
+<!-- Text -->
+<text xml:space="preserve" x="5811" y="2125" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">d</text>
+<!-- Text -->
+<text xml:space="preserve" x="5527" y="4110" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">e</text>
+<!-- Text -->
+<text xml:space="preserve" x="3732" y="3968" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">f</text>
+<!-- Text -->
+<text xml:space="preserve" x="2692" y="4062" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">g</text>
+<!-- Text -->
+<text xml:space="preserve" x="2881" y="4818" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">a</text>
+<!-- Text -->
+<text xml:space="preserve" x="3968" y="5102" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">b</text>
+<!-- Text -->
+<text xml:space="preserve" x="4724" y="5338" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">c</text>
+<!-- Text -->
+<text xml:space="preserve" x="5811" y="4913" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">d</text>
+<!-- Text -->
+<text xml:space="preserve" x="5385" y="7039" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">e</text>
+<!-- Text -->
+<text xml:space="preserve" x="3637" y="6850" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">f</text>
+<!-- Text -->
+<text xml:space="preserve" x="2503" y="6992" stroke="#000000" fill="#000000"  font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="start">g</text>
+</g>
+</svg>
