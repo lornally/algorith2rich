@@ -52,3 +52,12 @@
 /history/20221121控制论/初识控制论.key filter=lfs diff=lfs merge=lfs -text
 /history/LK1971.pdf filter=lfs diff=lfs merge=lfs -text
 /history/LKH_REPORT.pdf filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/TSP和VRP第一课.key filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/TSP和VRP第二课.key filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/lkh/LK1971.pdf filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/lkh/LKH_REPORT.pdf filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/map/5d19bfd196292.jpg filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/map/5d19c1823e6c3.jpg filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/map/浙江.png filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/《迷茫的旅行商：一个无处不在的计算机算法问题》.pdf filter=lfs diff=lfs merge=lfs -text
+/history/20221205TSP:VRP系列/地图.png filter=lfs diff=lfs merge=lfs -text
