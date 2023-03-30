@@ -22,7 +22,7 @@
 
 1. 在webui的civiai插件里直接搜索并下载，下载lora也是一样
    1. Lora 模型 墨心
-   2. 模型 chilloumix
+   2. 模型 chilloutmix
 2. 生成的图像存储在output目录下面
 
 
