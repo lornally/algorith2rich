@@ -1,0 +1,5 @@
+- DALL·E 是 OpenAI 的多模态预训练模型，通过**120亿参数的模型**，在**2.5亿图像文本对**上训练完成
+- DALL-E 是一个两阶段的模型：
+  - 它的第一个阶段是离散变分自编码器（Discrete Variance Auto-Encoder，dVAE），用于生成图像的token。
+  - 它的第二个阶段是混合了图像和文本特征的，以Transformer为基础的生成模型
+- BEiT也依赖于dVAE模型做 MIM 的预训练任务，利用 CLIP 方法做重排的思路很直观也很有效
