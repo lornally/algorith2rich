@@ -15,20 +15,20 @@
   - 我们发现23这一段和45这一段交换成24和35会快.
   - 最终交换出来的路线就是12435. 如图示: 
 
-![tsp.011](/Users/bergman/git/workdoc/分享推广/tsp/tsp.011.jpeg)
+![tsp.011](tsp/tsp.011.jpeg)
 
-![tsp.012](/Users/bergman/git/workdoc/分享推广/tsp/tsp.012.jpeg)
+![tsp.012](tsp/tsp.012.jpeg)
 
 - LK是一个对初始路线不敏感的算法, 我们可以想象成爬山, 他总能爬到附近的一个高峰, 但是, 这个高峰不见得是珠穆朗玛峰. 因此, 后续有动态的LKH算法和链式LK算法
 - LK本身就是链式调用的. 参见下图:
 
-![tsplk1](/Users/bergman/git/workdoc/分享推广/sketch/tsplk1.png)
+![tsplk1](sketch/tsplk1.png)
 
 - 我们从C点出发, 目标是替换掉cb这根红线.
 - 我们发现c5这根蓝线<cd. 那么就用c5这根蓝线替换掉cb这根红线.
 - 此时, 还需记录一个判断就是蓝线+虚线是否小于红线+绿线. 如果小, 那么这就是一次完美的二交换, 不论是否小, 都要继续进行下去.
 
-![tsplk2](/Users/bergman/git/workdoc/分享推广/sketch/tsplk2.png)
+![tsplk2](sketch/tsplk2.png)
 
 - 此时, 尝试用49取代45, 只要(49+5c)<(45+cb), 蓝线的总和<红线的总和.
 - 如果此时(49+5c+8b)<(45+cb+89), 那么这就是一次成功的三交换.

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185.5" height="198.2" version="1.1" style="stroke-width:1.19;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#0000b9; stroke:#0000b9; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#0000b9; stroke:#0000b9; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<radialGradient id="aa3" r="7.31617" fx="-148.678" fy="769.068" cx="-148.7" cy="769.1" gradientTransform="matrix(3.9186,0,0,8.06943,704.539,-6116.87)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:white; stop-opacity:0.69;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa4" gradientTransform="matrix(1.32277,0,0,1.49629,453.938,-1145.2)" xlink:href="#aa2" x1="-274.7" y1="828.9" x2="-173.3" y2="833.7" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa2">
+		<stop offset="0" style="stop-color:#82b200; stop-opacity:0.54;"/>
+		<stop offset="1" style="stop-color:#82b200; stop-opacity:0.88;"/>
+	</linearGradient>
+</defs>
+<path style="overflow:visible; fill:#19aeff; fill-opacity:0.56; stroke:black; stroke-linejoin:round;" d="M 0.6,127.9 159.2,0.6 184.9,197.6 Z"/>
+<path style="overflow:visible; fill:#ffe368; fill-opacity:0.68; stroke:black; stroke-linejoin:round;" d="m 0.6,127.9 146.3,7 12.3,-134.3 z"/>
+<ellipse cx="121.9" cy="89.1" rx="28.3" ry="58.4" style="color:black; overflow:visible; fill:url(#aa3); stroke-width:1.2;"/>
+<path style="overflow:visible; fill:url(#aa4); stroke:black; stroke-linejoin:round;" d="m 146.9,135 38,62.6 -25.7,-197 z"/>
+<path style="overflow:visible; fill:#82b200; fill-opacity:0.57; stroke:black; stroke-linejoin:round;" d="m 0.6,127.9 184.3,69.7 -38,-62.6 z"/>
+</svg>
