@@ -14,7 +14,9 @@
   - 加 route[v1+1]点到routev2点的路径取反向 
   - 加 route[v2+1]到结尾的路径
 
-
+path=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0]
+new_path = path[:]
+new_path[i:j] = path[j-1:i-1:-1]
 
 ### 3opt
 
