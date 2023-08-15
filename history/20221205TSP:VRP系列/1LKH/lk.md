@@ -1,10 +1,15 @@
+
+### 参考
 - https://en.wikipedia.org/wiki/Lin%E2%80%93Kernighan_heuristic
 - https://en.wikipedia.org/wiki/2-opt
 - https://en.wikipedia.org/wiki/3-opt
 
+### 使用心得
+- 在订单领域, 由于有取送依赖, 所以这种交换的效率较差, 不如直接交换两个点更好
+
 ### 核心问题
 
-- 交换点的时候, 如果点发生反转, 是否要反转中间的线路?
+- 交换点的时候, 如果点发生反转, 是否要反转中间的线路? 必须翻转, python的切片操作非常适合干这个事
 
 ### 2opt
 
