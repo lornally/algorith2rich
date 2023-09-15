@@ -152,3 +152,7 @@ LKH算法使用分支限界法来加速搜索。具体来说，算法会将当�
 * lkh论文: https://citeseerx.ist.psu.edu/doc/10.1.1.180.1798
 * http://tsp-basics.blogspot.com/2017/03/3-opt-move.html
 * https://blog.csdn.net/qq_30977037/article/details/117356753
+
+
+### 我自己的实现
+* git@gitlab.hungrypanda.it:algorithm/vehicledispatch/core2023.git
