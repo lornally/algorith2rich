@@ -155,4 +155,4 @@ LKH算法使用分支限界法来加速搜索。具体来说，算法会将当�
 
 
 ### 我自己的实现
-* git@gitlab.hungrypanda.it:algorithm/vehicledispatch/core2023.git
+* 待整理一份剥离了工作代码的基础实现, 顺便说一句copilot的lk实现还是不错的, 虽然不能用.....
