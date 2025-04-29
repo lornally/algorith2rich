@@ -1,2 +1,0 @@
-- 一个decoding, 从img embedding-> 图像
-- 他的训练使用了diffusion
